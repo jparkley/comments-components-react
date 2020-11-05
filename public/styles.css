@@ -1,0 +1,18 @@
+body {
+  /* background-color: #d6eaf8; */
+  min-height: 70vh;
+  box-sizing: border-box;
+  padding: 40px;
+  justify-content: center;
+  color: hsl(198, 1%, 29%);
+  font-family: "Architects Daughter", cursive;
+  font-size: 3.2rem;
+  background-color: #fef5e7;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
